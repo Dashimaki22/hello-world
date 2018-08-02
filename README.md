@@ -1,2 +1,2 @@
 # hello-world
-tutorial for github
+trial based on tutorial
